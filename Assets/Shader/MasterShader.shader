@@ -81,7 +81,7 @@ Shader "Custom/ProceduralShapes"
 
             
 
-            // --------- Exemple de pattern animé ---------
+            // 
             float pattern(float2 uv, float t)
             {
                 // Cercle animé
